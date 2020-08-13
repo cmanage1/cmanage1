@@ -1,4 +1,7 @@
-### Hi there 👋
+## Welcome 👋
+
+ I'm a third-year Computer Science and Psychology student @uOttawa. I develop applications in my free time and you can find the source code for all of them here. 
+ 
 
 <!--
 **cmanage1/cmanage1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
