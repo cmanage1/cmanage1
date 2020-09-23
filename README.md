@@ -1,6 +1,6 @@
 ## ✨ Welcome ✨
 
-I'm a third-year Honours Computer Science and Psychology student @uOttawa. While I'm not studying 📖,  enjoying the great outdoors 🌳 or making (kind-of) gourmet meals 🧑🏾‍🍳 , I develop applications. You can find the source code for all of them here. 
+I'm a third-year Honours Computer Science and Psychology student @uOttawa. While I'm not enjoying the great outdoors 🌳 or making (kind-of) gourmet meals 🧑🏾‍🍳 , I develop applications. You can find the source code for all of them here. 
 <br><br/>
 📫 If you wish to reach me send me an email at: cmana072@uottawa.ca
 
