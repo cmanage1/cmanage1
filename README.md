@@ -1,4 +1,4 @@
-## Hi person 👋🏾
+## Hi there 👋🏾
 
 I'm a third-year Honours Computer Science and Psychology student @uOttawa. While I'm not enjoying the great outdoors 🌳 or making (kind-of) gourmet meals 🧑🏾‍🍳 , I develop applications. You can find the source code for all of them here. 
 <br><br/>
