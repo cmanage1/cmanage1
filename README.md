@@ -2,7 +2,7 @@
 
 I'm a third-year Honours Computer Science and Psychology student @uOttawa. While I'm not enjoying the great outdoors 🌳 or making (kind-of) gourmet meals 🧑🏾‍🍳 , I develop applications. You can find the source code for all of them here. 
 <br><br/>
-📫 If you wish to reach me send me an email at: chethin.manage@uottawa dot ca
+📫 If you wish to reach me send me an email at: chethin.manage@gmail dot ca
 
 <!--
 **cmanage1/cmanage1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
