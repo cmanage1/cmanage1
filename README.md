@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-I'm a fourth-year Honours Computer Science and Psychology student @uOttawa. While I'm not enjoying the great outdoors 🌳 or making (kind-of) gourmet meals 🧑🏾‍🍳 , I develop applications. You can find the source code for all of them here. 
+I'm a final-year Honours Computer Science and Psychology student @uOttawa. While I'm not enjoying the great outdoors 🌳 or making (kind-of) gourmet meals 🧑🏾‍🍳 , I develop applications. You can find the source code for all of them here. 
 <br><br/>
 📫 If you wish to reach me send me an email at: chethin.manage@gmail dot ca
 
