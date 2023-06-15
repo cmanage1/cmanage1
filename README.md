@@ -1,18 +1,12 @@
-# Hello! 
+# Hello! 👋
 
-👋 I&apos;m a software developer based in Toronto and
-a recent graduate with Honours in Computer Science.
-<br />
+- Thanks for visiting! You can find the source code for most of my work here.
 
-🐍 I have significant experience building large-scale user interfaces 
-using <b>React.js</b> and developing complex <b>Python</b> server systems.
-<br /> 
 
-🧠 My current interests include Artificial Intelligence and Machine Learning
-using classification models.
-<br />
+📫 chethin.manage@gmail dot ca
 
-📫 My inbox is always open so feel free to contact me whenever at: chethin.manage@gmail dot ca
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethinm/)
+[![Personal Website](https://img.shields.io/badge/Personal&nbsp;Website-732C2C?style=for-the-badge&logo=About.me&logoColor=white)](https://www.cmanage.dev/)
 
 <!--
 **cmanage1/cmanage1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
