@@ -1,9 +1,10 @@
 # Hello! 👋
 
-- Thanks for visiting! You can find the source code for most of my work here.
-
+### Thanks for visiting! You can find the source code for most of my work here.
+<br/>
 
 📫 chethin.manage@gmail dot ca
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethinm/)
 [![Personal Website](https://img.shields.io/badge/Personal&nbsp;Website-732C2C?style=for-the-badge&logo=About.me&logoColor=white)](https://www.cmanage.dev/)
