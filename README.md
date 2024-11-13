@@ -1,6 +1,6 @@
 # Hello! 👋
 
-### Thanks for visiting! You can find the source code for most of my work here.
+Thanks for visiting! You can find the source code for most of my work here.
 <br/>
 
 📫 chethin.manage@gmail dot ca
